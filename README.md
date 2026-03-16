@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./frontend/public/images/dashboard-dark.png" alt="TaskMaster Pro Dashboard" width="800"/>
   
@@ -407,3 +408,7 @@ This project uses the following open-source packages:
   
   <p><em>Last updated: March 2026</em></p>
 </div>
+=======
+# TaskMaster-Pro
+Built a scalable task management system using Node.js, Express.js, MongoDB, Docker, and AWS EC2. Implemented RESTful APIs, JWT authentication, and role-based access control. Deployed distributed infrastructure using Vercel and Render with optimized real-time task processing and system monitoring.
+>>>>>>> 7e8451871946d5d67da7c30bed8fc96a80c07ab9
